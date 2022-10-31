@@ -1,0 +1,11 @@
+
+Q
+java:S1172"6Remove this unused method parameter "totalWaterUsage".(û¾Æ¾ıÿÿÿÿ
+S
+java:S1128"6Remove this unused import 'domain.UserJsonDataParser'.(ùÖó¥8¤Î³ÜÂ0
+E
+java:S1128"(Remove this unused import 'domain.User'.(ÑÛé8¤Î³ÜÂ0
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¤Î³ÜÂ0
+L
+java:S1068"6Remove this unused "postJsonDataParser" private field.(÷‹Ğ„
